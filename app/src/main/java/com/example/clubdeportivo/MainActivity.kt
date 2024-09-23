@@ -27,5 +27,6 @@ class MainActivity : AppCompatActivity() {
 
         // Asignar el adapter al Spinner
         spinnerDocumentType.adapter = adapter
+
     }
 }
